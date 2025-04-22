@@ -1,0 +1,16 @@
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /* Centraliza o texto dentro do container */
+    margin-top: 20px; /* Margem superior para separar do topo */
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; /* Centraliza o texto dentro do container */
+    margin-top: 20px; /* Margem superior para separar do topo */
+}
+
+.inserir {
+    text-align: center; /* Centraliza o conteúdo dentro de .inserir */
+    margin-top: 20px; /* Margem superior para separar do container */
+    font-family: Arial, Helvetica, sans-serif;
+}
